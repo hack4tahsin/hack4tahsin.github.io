@@ -846,7 +846,8 @@ li span:hover:after {
 
     #logo {
         display: inline-block;
-        margin-top: 20px;
+        margin-top: 10px;
+        height: 90px;
     }
 
     .hero-tag {
