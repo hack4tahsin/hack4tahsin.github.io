@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Hi, I am Tahsin Ahmed and this is my portfolio. I am a computer programmer. I care about the security of your information. Also, I love to design new algorithms to solve problems. However, I am also a voracious reader, a representative of people, and a non-stop learner.
+Hi, I am Tahsin Ahmed and this is my portfolio. I am known as the founder of Cyberengine and a computer enthusiast. I love to do research and design new algorithms to solve problems. Also, Kacchi-biryani is my cup of tea because it fuels me to think. However, I am a voracious reader, a representative of people, and a non-stop learner. 
 
 Visit the link to know me more https://www.hack4tahsin.com
 
