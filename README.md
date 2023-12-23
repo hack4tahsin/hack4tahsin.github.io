@@ -18,30 +18,30 @@ Visit the link to know me more https://www.hack4tahsin.com
 
 ## Technical Skills
 
-1. Programming language
+1. **Programming language**
    - Python
    - Javascript
    - C
      
-3. Cybersecurity
+3. **Cybersecurity**
    - Cryptography
    - Social Engineering
    - SQL Injection
      
-4. Computer Networking
+4. **Computer Networking**
    - Cisco Packet Tracer
      
-6. Web Design & Development
+6. **Web Design & Development**
    - MERN Stack
    - HTML
    - CSS
      
-7. UX Design
+7. **UX Design**
    - Figma
    - Adobe XD
    - Photoshop
      
-8. Microsoft Office
+8. **Microsoft Office**
    - Word
    - Powerpoint
    - Excel
@@ -56,18 +56,18 @@ Visit the link to know me more https://www.hack4tahsin.com
 
 ## Honors & Awards
 
-1. Intra-University Programming Contest
+1. **Intra-University Programming Contest**
    - Position: 13th
    - Team: Code Breakers
    - Year: 2022
      
-3. Intra University BUCC Hackathon
+3. **Intra University BUCC Hackathon**
    - Position: 1st
    - Project: BuTonic App
    - Team: Star Struck
    - Year: 2020
      
-5. Science Festival & Olympiad
+5. **Science Festival & Olympiad**
    - Position: 3rd
    - Project: Uses of computer in agriculture
    - Year: 2013
