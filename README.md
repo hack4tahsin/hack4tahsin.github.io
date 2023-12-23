@@ -9,7 +9,7 @@ Hi, I am Tahsin Ahmed and this is my portfolio. I am a computer programmer. I ca
 ## Education
 
 | Institute | Department | Result | Year |
-| --------- |:----------:|:------:| ----:|
+|:---------:|:----------:|:------:|:----:|
 | BRAC University | Computer Science | CGPA: 3.43 | 2019 - Present |
 | Shaheed Police Smrity College | Science | GPA: 4.50 | 2018 |
 | Monipur High School & College | Science | GPA: 4.61 | 2016 |
