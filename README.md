@@ -6,6 +6,8 @@
 
 Hi, I am Tahsin Ahmed and this is my portfolio. I am a computer programmer. I care about the security of your information. Also, I love to design new algorithms to solve problems. However, I am also a voracious reader, a representative of people, and a non-stop learner.
 
+Visit the link to know me more https://www.hack4tahsin.com
+
 ## Education
 
 | Institute | Department | Result | Year |
