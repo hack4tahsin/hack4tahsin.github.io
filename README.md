@@ -22,6 +22,7 @@ Visit the link to know me more https://www.hack4tahsin.com
    - Python
    - Javascript
    - C
+   - PHP
      
 3. **Cybersecurity**
    - Cryptography
